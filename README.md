@@ -1,4 +1,4 @@
-# Okoronkwo Chinedu Elijah<br/>
+# Okoronkwo Chinedu Elijah and Miracle Amarachi Okeosisi<br/>
 ## Description<br/>
 A simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.<br/><br/>
 ## Installation<br/>
