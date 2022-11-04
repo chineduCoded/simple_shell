@@ -12,10 +12,9 @@ In non-interactive mode, echo your desired command and pipe it into the program 
 ```shell
 echo "ls" | ./shell
 ```
-<br/>
 In non-interactive mode, the program will exit after finishing your desired command(s).<br/>
 ### Included Built-Ins<br/>
-Our shell has support for the following built-in commands:<br/>
+Our shell has support for the following built-in commands:<br/><br/>
 
 | Command | Definition |
 | --- | --- |
