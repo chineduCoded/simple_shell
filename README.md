@@ -2,7 +2,7 @@
 ## Description<br/>
 A simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.<br/><br/>
 ## Installation<br/>
-Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89<br/></br/>
+Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89<br/><br/>
 ## Usage<br/>
 After compilation, the resulting program can run stand-alone, either in interactive or non-interactive mode.<br/><br/>
 ### Interactive Mode<br/>
@@ -24,6 +24,5 @@ Our shell has support for the following built-in commands:<br/>
 | unsetenv [var] | Remove an environment variable. |
 | cd [dir] | change the directory. |
 | help [built-in] | Read documentation for built-in. |
-<br/>
 ## Credits<br/>
 All code written by [Okoronkwo Chinedu Elijah](https://github.com/chineduCoded) and [Miracle Amarachi Okeosisi](https://github.com/Miracool45)
