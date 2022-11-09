@@ -26,4 +26,4 @@ Our shell has support for the following built-in commands:<br/><br/>
 | help [built-in] | Read documentation for built-in. |
 
 ## Credits<br/>
-All code written by [Okoronkwo Chinedu Elijah](https://github.com/chineduCoded) and [Miracle Amarachi Okeosisi](https://github.com/Miracool45)
+All code written by [Okoronkwo Chinedu Elijah](https://github.com/chineduCoded) and [Miracle Amarachi Okeosisi](https://github.com/Miracool45).
